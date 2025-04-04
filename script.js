@@ -1,0 +1,1 @@
+console.log("Hello, world! Conversor de Moedas.");
