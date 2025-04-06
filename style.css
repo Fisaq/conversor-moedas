@@ -78,34 +78,9 @@ body{
     font-size: 13px;
 }
 
-.exibicao-cambio{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    display: block;
-    margin-bottom: 15px;
-    margin-left: 8rem;
-    padding: 22px;
-    width: 32rem;
-    background-color: #eeffe0;
-    border-radius: 5px;
-    border: none;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
-    font-size: 13px;
-}
-
-.exibicao-cambio{
-    text-align: left;
-    padding-left: 10px;
-}
-
-.exibicao-cambio p{
-    opacity: 40%;
-}
-
 
 footer{
+    padding-top: 1rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     opacity: 70%;
